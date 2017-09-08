@@ -25,6 +25,6 @@
   },
   "dependencies": {
     "lodash": "~2.3.0",
-    "pdf3json": "git+https://github.com/jonilaitinen/pdf2json.git"
+    "pdf2json": "git+https://github.com/jonilaitinen/pdf2json.git"
   }
 }
